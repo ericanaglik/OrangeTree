@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		0F81049B21696F7D006D1E7C /* Level-2.sks in Resources */ = {isa = PBXBuildFile; fileRef = 0F81049A21696F7D006D1E7C /* Level-2.sks */; };
 		0FD634572150B85A00C36326 /* Orange.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0FD634562150B85A00C36326 /* Orange.swift */; };
 		0FD8E9BE2150B29900A0078B /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0FD8E9BD2150B29900A0078B /* AppDelegate.swift */; };
 		0FD8E9C02150B29900A0078B /* Level-1.sks in Resources */ = {isa = PBXBuildFile; fileRef = 0FD8E9BF2150B29900A0078B /* Level-1.sks */; };
@@ -19,6 +20,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		0F81049A21696F7D006D1E7C /* Level-2.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; path = "Level-2.sks"; sourceTree = "<group>"; };
 		0FD634562150B85A00C36326 /* Orange.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Orange.swift; sourceTree = "<group>"; };
 		0FD8E9BA2150B29900A0078B /* OrangeTree.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = OrangeTree.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		0FD8E9BD2150B29900A0078B /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
@@ -65,6 +67,7 @@
 			children = (
 				0FD8E9BD2150B29900A0078B /* AppDelegate.swift */,
 				0FD8E9BF2150B29900A0078B /* Level-1.sks */,
+				0F81049A21696F7D006D1E7C /* Level-2.sks */,
 				0FD8E9C32150B29900A0078B /* GameScene.swift */,
 				0FD8E9C52150B29900A0078B /* GameViewController.swift */,
 				0FD634562150B85A00C36326 /* Orange.swift */,
@@ -137,6 +140,7 @@
 				0FD8E9D62150B36700A0078B /* Smashing-Things.atlas in Resources */,
 				0FD8E9C92150B29900A0078B /* Main.storyboard in Resources */,
 				0FD8E9C02150B29900A0078B /* Level-1.sks in Resources */,
+				0F81049B21696F7D006D1E7C /* Level-2.sks in Resources */,
 				0FD8E9CB2150B29D00A0078B /* Assets.xcassets in Resources */,
 				0FD8E9CE2150B29D00A0078B /* LaunchScreen.storyboard in Resources */,
 			);
